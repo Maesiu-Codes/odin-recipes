@@ -1,0 +1,17 @@
+:root {
+  --button-border-color: rgb(66, 255, 192);
+}
+
+* {
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+  background-color: rgba(140, 255, 188, 0.288);
+}
+a {
+  text-decoration: none;
+  border: solid;
+  border-color: var(--button-border-color);
+  color: black;
+}
+h1 {
+  text-align: center;
+}
